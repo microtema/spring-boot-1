@@ -49,7 +49,7 @@
 		<activemq.version>5.14.5</activemq.version>
 		<antlr2.version>2.7.7</antlr2.version>
 		<appengine-sdk.version>1.9.51</appengine-sdk.version>
-		<artemis.version>1.5.4</artemis.version>
+		<artemis.version>2.1.0</artemis.version>
 		<aspectj.version>1.8.10</aspectj.version>
 		<assertj.version>3.6.2</assertj.version>
 		<atomikos.version>3.9.3</atomikos.version>
@@ -108,7 +108,7 @@
 		<jdom2.version>2.0.6</jdom2.version>
 		<jedis.version>2.9.0</jedis.version>
 		<jersey.version>2.25.1</jersey.version>
-		<jest.version>2.0.4</jest.version>
+		<jest.version>5.3.2</jest.version>
 		<jetty.version>9.4.4.v20170414</jetty.version>
 		<jetty-jsp.version>2.2.0.v201112011158</jetty-jsp.version>
 		<jetty-el.version>8.0.33</jetty-el.version>
@@ -146,7 +146,7 @@
 		<rxjava2.version>2.0.8</rxjava2.version>
 		<selenium.version>3.3.1</selenium.version>
 		<selenium-htmlunit.version>2.26</selenium-htmlunit.version>
-		<sendgrid.version>2.2.2</sendgrid.version>
+		<sendgrid.version>3.0.0</sendgrid.version>
 		<servlet-api.version>3.1.0</servlet-api.version>
 		<simple-json.version>1.1.1</simple-json.version>
 		<slf4j.version>1.7.25</slf4j.version>
