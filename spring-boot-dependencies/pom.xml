@@ -46,7 +46,7 @@
 	</developers>
 	<properties>
 		<!-- Dependency versions -->
-		<activemq.version>5.14.5</activemq.version>
+		<activemq.version>5.15.12</activemq.version>
 		<antlr2.version>2.7.7</antlr2.version>
 		<appengine-sdk.version>1.9.51</appengine-sdk.version>
 		<artemis.version>1.5.4</artemis.version>
@@ -185,7 +185,7 @@
 		<thymeleaf-layout-dialect.version>2.1.2</thymeleaf-layout-dialect.version>
 		<thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
 		<thymeleaf-extras-java8time.version>3.0.0.RELEASE</thymeleaf-extras-java8time.version>
-		<tomcat.version>8.5.14</tomcat.version>
+		<tomcat.version>8.5.63</tomcat.version>
 		<undertow.version>1.4.13.Final</undertow.version>
 		<unboundid-ldapsdk.version>3.2.1</unboundid-ldapsdk.version>
 		<webjars-hal-browser.version>3325375</webjars-hal-browser.version>
